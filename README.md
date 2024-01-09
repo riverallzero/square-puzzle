@@ -3,6 +3,8 @@
 ![](split.jpg) | ![](origin.jpg) |
 ---| ---| 
 
+## Step
+
 - 정답 이미지와 뒤섞인 이미지를 4X4로 16등분해 정사각형 이미지를 ```data``` 폴더에 저장합니다.
 - **[imagededup](https://github.com/idealo/imagededup)** &rarr; ```data``` 폴더 안에서 동일한 이미지를 찾아냅니다.
     ```
@@ -16,4 +18,6 @@
 
 - 정렬된 번호로 이미지를 합쳐 저장합니다.
 
-  ![](result_image.jpg)
+## Result
+
+![](result_image.jpg)
